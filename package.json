@@ -1,0 +1,23 @@
+{
+  "name": "timestamp-microservice",
+  "version": "1.0.0",
+  "description": "api that return unix and natural date",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aniket965/timestamp-microservice.git"
+  },
+  "author": "aniket965",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aniket965/timestamp-microservice/issues"
+  },
+  "homepage": "https://github.com/Aniket965/timestamp-microservice#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
